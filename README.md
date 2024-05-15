@@ -1,4 +1,4 @@
-Pose Detection Project
+Pose Detection Project By (Tanu Chauhan and Amey Pathak)
 Overview
 
 This project aims to detect and analyze human poses in images and videos using state-of-the-art deep learning techniques. Pose detection is a fundamental task in computer vision with applications ranging from gesture recognition to human-computer interaction.
